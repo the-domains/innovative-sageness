@@ -1,3 +1,4 @@
+layout_spectrum: 0.3101257970556617
 typography_spectrum: 0.7270904269535094
 color:
   brandStrength: 0.3611427873838693
@@ -5,12 +6,9 @@ color:
   saturation: 0.23342014872469008
   rhythmicContrast: 0.5506306008901447
   brandColors:
-    - '#304269'
-    - '#91BED4'
-    - '#D9E8F5'
-    - '#FFFFFF'
-    - '#F26101'
-layout_spectrum: 0.3101257970556617
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
 name: innovative sageness
-title: Practical Human Resources
-description: Business Ownership as a Service
